@@ -13,6 +13,10 @@ header {
   padding: 20px;
 }
 
+
+.box-1{
+  background-color:#E05194;
+}
 header h1 {
   margin: 0;
   font-size: 40px;
